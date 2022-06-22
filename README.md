@@ -37,7 +37,7 @@ With the following software and hardware list you can run all code files present
 | 1-14     | Python 3, NumPy, SciPy, scikit-learn (latest version) | Ubuntu/Linux, macOS or Windows     |
 
 ### Chapter List (On Going)
-* Chapter 1: Getting started [[Link]](https://www.packtpub.com/big-data-and-business-intelligence/mastering-machine-learning-algorithms?utm_source=repository&utm_medium=github&utm_campaign=repository&utm_term=9781788621113) [[Amazon]](https://www.amazon.com/dp/1788621115)
+* Chapter 1: Getting started [[Link]](https://github.com/robitalhazmi/machine_learning/blob/main/Chapter01/chapter_01.ipynb)
 
 ## Get to Know the Contributor
 **Robit Al Hazmi** [LinkedIn](https://www.linkedin.com/in/robitalhazmi/)
