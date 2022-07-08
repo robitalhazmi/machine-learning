@@ -38,6 +38,7 @@ With the following software and hardware list you can run all code files present
 
 ### Chapter List (On Going)
 * Chapter 1: Getting started [[Link]](https://github.com/robitalhazmi/machine_learning/blob/main/Chapter01/chapter_01.ipynb)
+* Chapter 2: The Iris dataset [[Link]](https://github.com/robitalhazmi/machine-learning/blob/main/Chapter02/chapter_02.ipynb)
 
 ## Get to Know the Contributor
 **Robit Al Hazmi** [LinkedIn](https://www.linkedin.com/in/robitalhazmi/)
