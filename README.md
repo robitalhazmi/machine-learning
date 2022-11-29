@@ -48,6 +48,7 @@ With the following software and hardware list you can run all code files present
 * Chapter 9: Classification II – Sentiment Analysis [[Link]](https://github.com/robitalhazmi/machine-learning/blob/master/Chapter09/chapter_09.ipynb)
 * Chapter 10: Latent Dirichlet allocation [[Link]](https://github.com/robitalhazmi/machine-learning/blob/master/Chapter10/chapter_10.ipynb)
 * Chapter 11: Classification III – Music Genre Classification [[Link]](https://github.com/robitalhazmi/machine-learning/blob/master/Chapter11/chapter_11.ipynb)
+* Chapter 12: Computer Vision [[Link]](https://github.com/robitalhazmi/machine-learning/blob/master/Chapter12/chapter12.ipynb)
 
 ## Get to Know the Contributor
 **Robit Al Hazmi** [LinkedIn](https://www.linkedin.com/in/robitalhazmi/)
