@@ -36,7 +36,7 @@ With the following software and hardware list you can run all code files present
 | -------- | ----------------------------------------------------- | ------------------------------ |
 | 1-14     | Python 3, NumPy, SciPy, scikit-learn (latest version) | Ubuntu/Linux, macOS or Windows |
 
-### Chapter List (On Going)
+### Chapter List
 * Chapter 1: Getting started [[Link]](https://github.com/robitalhazmi/machine_learning/blob/master/Chapter01/chapter_01.ipynb)
 * Chapter 2: The Iris dataset [[Link]](https://github.com/robitalhazmi/machine-learning/blob/master/Chapter02/chapter_02.ipynb)
 * Chapter 3: Predicting house prices with regression [[Link]](https://github.com/robitalhazmi/machine-learning/blob/master/Chapter03/chapter_03.ipynb)
@@ -50,6 +50,7 @@ With the following software and hardware list you can run all code files present
 * Chapter 11: Classification III – Music Genre Classification [[Link]](https://github.com/robitalhazmi/machine-learning/blob/master/Chapter11/chapter_11.ipynb)
 * Chapter 12: Computer Vision [[Link]](https://github.com/robitalhazmi/machine-learning/blob/master/Chapter12/chapter12.ipynb)
 * Chapter 13: Reinforcement Learning [[Link]](https://github.com/robitalhazmi/machine-learning/blob/master/Chapter13/chapter13.ipynb)
+* Chapter 14: Using Amazon Web Services [[Link]](https://github.com/robitalhazmi/machine-learning/blob/master/Chapter14/chapter14.ipynb)
 
 ## Get to Know the Contributor
 **Robit Al Hazmi** [LinkedIn](https://www.linkedin.com/in/robitalhazmi/)
